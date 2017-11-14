@@ -29,8 +29,8 @@ at Spaulding Rehabilitation Hospital (Boston, MA), and in the Networking Laborat
 
 |:-------------|:-------------| 
 | Introduction to programming | FS 2016 |
-| Compiler Design |  FS 2012-2015, SS 2017 | 
-| Advanced Compiler Design |  SS 2012-2016, FS2017  | 
+| Compiler Design | FS 2012-2015, SS 2017 | 
+| Advanced Compiler Design | SS 2012-2016, FS 2017 | 
         
 ### [](#header-3) Student Projects
 If you are interested in doing a semester/master/diploma project, please take a look here for a 
