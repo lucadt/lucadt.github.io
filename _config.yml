@@ -11,7 +11,6 @@ baseurl:             ''
 author:
 name:              Luca Della Toffola
 url:               http://lucadt.github.io
-email:             ldellatoffola@gmail.com
 github_username:   lucadt
 linkedin_username: luca-della-toffola-93094284
 
@@ -26,7 +25,6 @@ exclude:
 # Options
 show_downloads: false
 google_analytics: true
-github.is_user_page: true
 
 # Theme
 theme: jekyll-theme-minimal
