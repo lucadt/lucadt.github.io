@@ -1,0 +1,33 @@
+# Built with Jekyll
+
+# Setup
+title:               Luca Della Toffola
+tagline:             'Luca Della Toffola somehow personal page'
+description:         ''
+url:                 'http://lucadt.github.io'
+baseurl:             ''
+
+# About/contact
+author:
+name:              Luca Della Toffola
+url:               http://lucadt.github.io
+email:             ldellatoffola@gmail.com
+github_username:   lucadt
+linkedin_username: luca-della-toffola-93094284
+
+# Markdown specs
+markdown: kramdown
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+  
+# Options
+show_downloads: false
+google_analytics: true
+github.is_user_page: true
+
+# Theme
+theme: jekyll-theme-minimal
+
