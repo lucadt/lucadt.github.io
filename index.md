@@ -5,8 +5,8 @@ layout: default
 ### [](#header-3) About
 I am a PhD student at the [Laboratory for Software Technology](http://www.lst.inf.ethz.ch)-
 Institute of Computer Systems, of ETH Zurich, 
-under the supervision of Prof. [Thomas Gross](http://www.lst.inf.ethz.ch/people/trg.html).
-My main research interests are automatic performance bug detection, and compilation techniques 
+under the supervision of Prof. Thomas Gross.
+My main research interests are automatic performance bugs detection, and compilation techniques 
 for dynamic languages, more specifically JavaScript.
 
 I hold a MSc. degree (2010) from the University of Lugano (USI) and a BSc. degree (2008) from the 
