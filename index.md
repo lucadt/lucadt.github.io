@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [](#header-3) About
+### [](#header-4) About
 __I'm currently looking for new research oppurtunities in industry or in academia!__
 
 I am a Post-Doc at the [Laboratory for Software Technology](http://www.lst.inf.ethz.ch) of ETH Zurich. 
@@ -13,8 +13,6 @@ I hold a PhD (2018) from ETH Zurich (under the supervision of Prof. Thomas Gross
 Before joining ETH I spent time in the [Motion Analysis Laboratory](http://srh-mal.net/)
 at Spaulding Rehabilitation Hospital (Boston, MA), and in the Networking Laboratory at SUPSI 
 (Manno, Switzerland).
-
-### [](#header-3) Publications
 
 ### [](#header-4) Research papers
 
@@ -46,7 +44,7 @@ Research papers related to my past work experiences can be found in [DBLP](http:
 | Compiler Design | FS 2012-2015, SS 2017, SS 2018 | 
 | Advanced Compiler Design | SS 2012-2016, FS 2017 | 
         
-### [](#header-3) Student Projects
+### [](#header-4) Student Projects
 If you are interested in doing a semester/master/diploma project, please take a look here for a 
 list of [project proposals](http://www.lst.inf.ethz.ch/education/student-projects.html).
 You are welcome to come to my office or write an e-mail if you need more information about one of the listed projects.
