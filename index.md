@@ -6,6 +6,7 @@ layout: default
 I am a Post-Doc at the [Laboratory for Software Technology](http://www.lst.inf.ethz.ch)-Institute of Computer Systems, of ETH Zurich. My main research interests are program analysis and program synthesis for automatic performance anomalies detection.
 
 I hold a Ph.D. (2018) from ETH Zurich (under the supervision of Prof. Thomas Gross), a MSc. degree (2010) from the University of Lugano (USI), and a BSc. degree (2008) from the  University of Applied Sciences of Southern Switzerland (SUPSI).
+
 Before joining ETH I spent time in the [Motion Analysis Laboratory](http://srh-mal.net/)
 at Spaulding Rehabilitation Hospital (Boston, MA), and in the Networking Laboratory at SUPSI 
 (Manno, Switzerland).
@@ -20,7 +21,7 @@ at Spaulding Rehabilitation Hospital (Boston, MA), and in the Networking Laborat
 {% endif %}
 {% endfor %}
 
-Publications related to my past work experiences can be found in [DBLP] (http://dblp.uni-trier.de/pers/hd/t/Toffola:Luca_Della)
+Publications related to my past work experiences can be found in [DBLP](http://dblp.uni-trier.de/pers/hd/t/Toffola:Luca_Della)
             
 ### [](#header-3) Teaching
 
