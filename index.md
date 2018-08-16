@@ -3,7 +3,6 @@ layout: default
 ---
 
 ### [](#header-4) About
-__I'm currently looking for new research oppurtunities in industry or in academia!__
 
 I am a Post-Doc at the [Laboratory for Software Technology](http://www.lst.inf.ethz.ch) of ETH Zurich. 
 My main research interests are program analysis and program synthesis for automatic performance anomalies detection.
