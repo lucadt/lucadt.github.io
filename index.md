@@ -3,6 +3,8 @@ layout: default
 ---
 
 ### [](#header-3) About
+__I'm currently looking for new research oppurtunities in industry or in academia!__
+
 I am a Post-Doc at the [Laboratory for Software Technology](http://www.lst.inf.ethz.ch)-Institute of Computer Systems, of ETH Zurich. My main research interests are program analysis and program synthesis for automatic performance anomalies detection.
 
 I hold a Ph.D. (2018) from ETH Zurich (under the supervision of Prof. Thomas Gross), a MSc. degree (2010) from the University of Lugano (USI), and a BSc. degree (2008) from the  University of Applied Sciences of Southern Switzerland (SUPSI).
