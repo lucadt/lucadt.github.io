@@ -34,15 +34,3 @@ Research papers related to my past work experiences can be found in [DBLP](http:
    | {{ p.conf }} -- [pdf]({{ p.pdf }})|
 {% endif %}
 {% endfor %}
-            
-### [](#header-3) Teaching
-
-|:-------------|:-------------| 
-| Introduction to programming | FS 2016, FS 2018 |
-| Compiler Design | FS 2012-2015, SS 2017, SS 2018 | 
-| Advanced Compiler Design | SS 2012-2016, FS 2017 | 
-        
-### [](#header-4) Student Projects
-If you are interested in doing a semester/master/diploma project, please take a look here for a 
-list of [project proposals](http://www.lst.inf.ethz.ch/education/student-projects.html).
-You are welcome to come to my office or write an e-mail if you need more information about one of the listed projects.
